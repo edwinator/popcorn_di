@@ -1,0 +1,20 @@
+#dancevideo_01{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#screenshot{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+P.titleText{
+	font-family:Helvetica;
+	embed-fonts:true;
+	font-size:28px;
+	text-align:left;
+	color:#3B5998;
+	background:#FFFFFF;
+}
